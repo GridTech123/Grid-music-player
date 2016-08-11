@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Grid Media 2016 - Music Player", "Grid Media 2016 - Music Player\Grid Media 2016 - Music Player.pyproj", "{03D8B30F-1A5A-4114-9E8A-36CB3C1C352F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D8B30F-1A5A-4114-9E8A-36CB3C1C352F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D8B30F-1A5A-4114-9E8A-36CB3C1C352F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
